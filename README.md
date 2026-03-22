@@ -6,8 +6,8 @@ A modern, interactive quiz platform built using **HTML, CSS, and JavaScript**, d
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](#)
-*([Add your deployed link here later](https://quizzzi.netlify.app/))*
+👉 [View Live Project](https://quizzzi.netlify.app/)
+ 
 
 ---
 
